@@ -78,7 +78,7 @@ variable "snet_db_cidr" {
 variable "jumpbox_vm_name_01" {
   type        = string
   description = "(optional) describe your variable"
-  default     = "jumpbox01"
+  default     = "jumpbox02"
 }
 
 variable "jumpbox_vm_size_01" {
