@@ -1,4 +1,4 @@
 ## Ensure az cli is installed and logged in
 
 #----Create Service principal
-az ad sp create-for-rbac -n "tfuser" --role contributor --scopes /subscriptions/8bfff7c4-6972-4035-88a4-0e0121080864
+az ad sp create-for-rbac -n "tfuser" --role contributor --scopes /subscriptions/77493539-2f09-40b0-8da5-16f68feea4b0
